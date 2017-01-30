@@ -14,5 +14,5 @@ Meetup Event: [https://www.meetup.com/Detroit-Javascript/events/236779435](https
 
 ## Getting Started with Next.js
 * led by: TJ Miller
-* duration: 15 minutes
+* duration: 10 minutes
 * abstract: Intro into some hotness with [Next.js](https://zeit.co/blog/next)
