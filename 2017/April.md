@@ -2,7 +2,6 @@
 
 Meetup Event: [https://www.meetup.com/Detroit-Javascript/events/236779435](https://www.meetup.com/Detroit-Javascript/events/237289344/)
 
-
 ## JavaScript is Everywhere
 * Led by: Sean O'Donohue
 * Duration: 10 minutes
@@ -13,7 +12,6 @@ Meetup Event: [https://www.meetup.com/Detroit-Javascript/events/236779435](https
 * Resources: 
   * [History of JS](http://dailyjs.com/history-of-javascript-index/)
   * [A portfolio of different JS apps](http://www.creativebloq.com/web-design/examples-of-javascript-1233964)
-
 
 ## Panel Discussion
 * led by: a bunch of people
