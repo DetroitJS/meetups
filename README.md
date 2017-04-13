@@ -10,3 +10,15 @@ See the [contributing guidelines](CONTRIBUTING.md) for more details.
 ## Submitting a Talk Suggestion
 
 Talk suggestions are rad! If you would like to submit a suggestion for a talk you would like to hear or a theme for a Meetup create an issue on the repository.
+
+## Need Ideas?
+
+Here are some things the community is interested in hearing about.
+
+* Project stories
+* Building / Consuming apis
+* Vue
+* Node
+* Testing / TDD
+* Accessibility with JS
+* Front-end Frameworks
